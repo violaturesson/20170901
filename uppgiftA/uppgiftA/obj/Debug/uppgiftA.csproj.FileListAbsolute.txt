@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U01091701\uppgiftA\uppgiftA\bin\Debug\uppgiftA.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U01091701\uppgiftA\uppgiftA\bin\Debug\uppgiftA.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U01091701\uppgiftA\uppgiftA\bin\Debug\uppgiftA.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U01091701\uppgiftA\uppgiftA\obj\Debug\uppgiftA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U01091701\uppgiftA\uppgiftA\obj\Debug\uppgiftA.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U01091701\uppgiftA\uppgiftA\obj\Debug\uppgiftA.pdb
